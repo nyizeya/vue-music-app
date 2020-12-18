@@ -1,7 +1,3 @@
-# todo-app
-# this app is really basic todo app with vue and axios 
-# add todo item to jsonplaceholder with axios
-# delete todo item with axios.delete()
 
 ## Project setup
 ```
